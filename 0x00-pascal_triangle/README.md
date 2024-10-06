@@ -1,0 +1,2 @@
+# Pascal Triangle
+This directory contains a task file that mocks an interview question on creating a function that would create a list of lists representing the pascal triangle with n rows, n being the only function parameter.
